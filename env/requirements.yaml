@@ -8,6 +8,9 @@ dependencies:
 - name: bdd-test-import-1533028819
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
+- name: bdd-test-node-http-1533028819
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-test-python-http-1533028819
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
